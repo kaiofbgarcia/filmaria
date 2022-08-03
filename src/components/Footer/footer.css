@@ -1,5 +1,4 @@
-
-header{
+footer{
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -8,16 +7,7 @@ header{
     background-color: #000000;
 }
 
-.logo{
-    text-decoration: none;
-    font-size: 30px;
-    cursor: pointer;
-    color: #FFF;
-    font-weight: bold;
-    margin-top: 15px;
-}
-
-.favoritos{
+.link{
     text-decoration: none;
     cursor: pointer;
     background-color: #FFF;

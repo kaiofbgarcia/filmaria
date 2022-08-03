@@ -12,6 +12,6 @@ body{
   display: flex;
   width: 100%;
   justify-content: center;
-  align-itens: center;
+  align-items: center;
   flex-direction: column;
 }

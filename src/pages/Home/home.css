@@ -3,6 +3,13 @@
     margin: 14px auto;
 }
 
+.loading{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 14px;
+}
+
 .lista-filmes article{
     width: 100%;
     background-color: #FFF;
@@ -29,11 +36,11 @@
 
 .lista-filmes a{
     display: flex;
-    align-itens: center;
+    align-items: center;
     justify-content: center;
     padding: 10px 0;
     font-size: 24px;
-    background-color: #116FEB;
+    background-color: rgb(0, 0, 0);
     text-decoration: none;
     color: #FFF;
     border-bottom-left-radius: 16px;
