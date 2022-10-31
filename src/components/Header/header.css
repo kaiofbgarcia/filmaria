@@ -10,6 +10,7 @@ header{
 
 .logo{
     text-decoration: none;
+    margin-bottom: 16px;
     font-size: 30px;
     cursor: pointer;
     color: #FFF;
@@ -25,5 +26,4 @@ header{
     color: #000000;
     border-radius: 4px;
     height: 30px;
-    margin-top: 15px;
 }

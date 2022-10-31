@@ -6,7 +6,7 @@
 
 body{
   font-family: sans-serif;
-  background-color: white;
+  background:linear-gradient(-120deg, #D62121, #C72C2C, #3a1111);
 }
 
 .app{
